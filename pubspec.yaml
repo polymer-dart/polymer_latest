@@ -1,0 +1,21 @@
+name: polymer_latest
+description: Polymer Dart - Latest release
+author: Polymer Dart Com <vittorio.ballestra@gmail.com>
+homepage: https://github.com/polymer-dart/polymer_latest
+version: 1.0.0
+dependencies:
+  polymer:
+    hosted:
+      name: polymer
+      url: "http://pub.dart-polymer.com"
+    version: "1.0.0-rc.19.unofficial.1"
+  polymer_elements:
+    hosted:
+      name: polymer_elements
+      url: "http://pub.dart-polymer.com"
+    version: "1.0.0-rc.11+4"
+  polymer_interop:
+    hosted:
+      name: polymer_interop
+      url: "http://pub.dart-polymer.com"
+    version: "1.0.0-rc.11.exp.20170113.0"
